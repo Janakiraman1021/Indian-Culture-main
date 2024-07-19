@@ -119,6 +119,7 @@ nav {
 }
 
 .nav ul a {
+    background-color: #ff9100;
     color: #fff;
     padding: 10px;
     position: relative;
